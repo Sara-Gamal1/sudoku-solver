@@ -1,16 +1,26 @@
-# image_processing
+## Description
 
-A new Flutter project.
+this is a Sudoku Solver project, a part of an image processing course. This application utilizes the power of image processing and machine learning to solve Sudoku puzzles from photos
 
-## Getting Started
+## How to Use?
 
-This project is a starting point for a Flutter application.
+### _ How to Run! _
 
-A few resources to get you started if this is your first Flutter project:
+- run backend.py as it operates as a local server
+- run main.dart as it is the Flutter app
+- press on a suitable button to choose whether to solve 3x3 or 9x9 sudoku
+- to solve a new sudoku &rarr; just refresh the application
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### _ Needed Libraries _
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- flutter installation
+  - image_picker package
+  - http_parser package
+  - Dio package
+- python installation
+  - numpy library
+  - skimage library
+  - matplotlib library
+  - opencv library
+  - pickle library
+  - flask framework
