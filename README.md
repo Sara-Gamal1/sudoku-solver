@@ -6,8 +6,8 @@ this is a Sudoku Solver project, a part of an image processing course. This appl
 
 ### _ How to Run! _
 
-- FLUTTER GUI &rarr; image_processing &rarr; run backend.py as a local server
-- FLUTTER GUI &rarr; image_processing &rarr; lib &rarr; run main.dart as it is the Flutter app
+- FLUTTER_GUI &rarr; image_processing &rarr; run backend.py as a local server
+- FLUTTER_GUI &rarr; image_processing &rarr; lib &rarr; run main.dart as it is the Flutter app
 - press on a suitable button to choose whether to solve 3x3 or 9x9 sudoku
 - to solve a new sudoku &rarr; just refresh the application
 
