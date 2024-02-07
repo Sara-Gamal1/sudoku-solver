@@ -26,12 +26,11 @@ this is a Sudoku Solver project, a part of an image processing course. This appl
   - flask framework
  
 ## Screen Shots  📸
-| GUI                                                                                                         | Input Example 1                                                                                  |
-| ----------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------  |
-| ![img1](https://github.com/Sara-Gamal1/sudoku-solver/assets/110634473/2545df21-e2af-42a7-81cf-740f4e09b8ef) | ![img2](https://github.com/Sara-Gamal1/sudoku-solver/assets/110634473/61c3f175-9a18-4579-b4a7-96629b592e83)  |
+| GUI                      | Input Example 1    | Input Example 2 |
+| ------------------------------------------------ | ---------------------------------------  | --------------------------------------------------------  |
+| ![img1](https://github.com/Sara-Gamal1/sudoku-solver/assets/110634473/2545df21-e2af-42a7-81cf-740f4e09b8ef) | ![img2](https://github.com/Sara-Gamal1/sudoku-solver/assets/110634473/61c3f175-9a18-4579-b4a7-96629b592e83)  |  ![img3](https://github.com/Sara-Gamal1/sudoku-solver/assets/110634473/b3cdb1fb-942f-40ec-9bbd-82464c361133)
 
-![img2](https://github.com/Sara-Gamal1/sudoku-solver/assets/110634473/61c3f175-9a18-4579-b4a7-96629b592e83)
-![img3](https://github.com/Sara-Gamal1/sudoku-solver/assets/110634473/b3cdb1fb-942f-40ec-9bbd-82464c361133)
+
 ![img4](https://github.com/Sara-Gamal1/sudoku-solver/assets/110634473/80705cdd-6d75-4a3c-be0e-b76e4840feaf)
 ![img5](https://github.com/Sara-Gamal1/sudoku-solver/assets/110634473/30161f3e-5113-4f27-ab1f-5962e1452dae)
 ![img6](https://github.com/Sara-Gamal1/sudoku-solver/assets/110634473/ca23edd0-f1de-42c5-9779-3b36dd7558b6)
