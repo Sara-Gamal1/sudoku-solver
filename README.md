@@ -27,7 +27,7 @@ this is a Sudoku Solver project, a part of an image processing course. This appl
  
 ## Screen Shots  📸
 <p float="left">
-  <img src="https://github.com/Sara-Gamal1/sudoku-solver/assets/110634473/2545df21-e2af-42a7-81cf-740f4e09b8ef" width="80%" />
+  <img src="https://github.com/Sara-Gamal1/sudoku-solver/assets/110634473/2545df21-e2af-42a7-81cf-740f4e09b8ef" width="90%" />
 </p>
 <p float="left">
   <img src="https://github.com/Sara-Gamal1/sudoku-solver/assets/110634473/61c3f175-9a18-4579-b4a7-96629b592e83" width="45%" />
