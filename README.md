@@ -26,7 +26,12 @@ this is a Sudoku Solver project, a part of an image processing course. This appl
   - flask framework
  
 ## Screen Shots  📸
-| ![GUI](https://github.com/Sara-Gamal1/sudoku-solver/assets/110634473/2545df21-e2af-42a7-81cf-740f4e09b8ef) |
+<p float="left">
+  <img src="https://github.com/Sara-Gamal1/sudoku-solver/assets/110634473/2545df21-e2af-42a7-81cf-740f4e09b8ef" width="33%" title="GUI"/>
+ 
+</p>
+
+| ![GUI]() |
 | ![Input Example 1](https://github.com/Sara-Gamal1/sudoku-solver/assets/110634473/61c3f175-9a18-4579-b4a7-96629b592e83)  |  ![Output Example 1](https://github.com/Sara-Gamal1/sudoku-solver/assets/110634473/b3cdb1fb-942f-40ec-9bbd-82464c361133) |
 
 ![img4](https://github.com/Sara-Gamal1/sudoku-solver/assets/110634473/80705cdd-6d75-4a3c-be0e-b76e4840feaf)
